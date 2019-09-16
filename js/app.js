@@ -4,7 +4,7 @@ var totalCounter = 0
 var name = prompt('Hello!  My name is Jerome.  Tell me what is your name?');
 console.log('Hello ' + name);
 alert (name + ', pleasure to meet.');
-var playQuiz = prompt ('To start, I have a short guessing game, 7 questions. Would you like to play?');
+var playQuiz = prompt ('To start, I have a short guessing game, 7 questions. Would you like to play: Y/N?');
 console.log ('User\'s response to play guessing game: ' + playQuiz);
 
 
