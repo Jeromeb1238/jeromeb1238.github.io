@@ -1,24 +1,49 @@
-html, body, div, span, applet, object, iframe,
+html, div, span, applet, object, iframe,
 h1, h2, h3, h4, h5, h6, p, blockquote {
-	margin: 2;
-	padding: 8;
+  font-family: 'Times New Roman', Times, serif;
+  margin: 10;
+	padding: 10;
 	border: 2;
-	font-size: 100%;
+  font-family: 'Times New Roman', Times, serif;
 	font: inherit;
-	vertical-align: baseline;
-
+  vertical-align: baseline;
+  text-align: initial
 }
 
-body{
-  font-family: Arial, Helvetica, sans-serif;
-  font-size: 20px;
+body, section, p {
+  font-family: 'Times New Roman', Times, serif;
+  font-weight: lighter;
+  font-style: normal;
+  text-align: left;
+  font-family: Arial;
+  font-size: 100%;
   background-color: lightblue;
 }
 h1{
   font-size: 300%;
+  font-weight: bold;
+  font-style: normal;
+  text-decoration: underline
+
 }
 
+h3{
+  font-size: 150%;
+  font-weight: lighter;
+  font-style: normal;
+  text-decoration: underline
+
+}
+  
 ul {
-0,0,1
+  list-style-type: initial;
+  text-align: left;
+
+
+}
+
+ol {
+  list-style-type: lower-roman;
+  text-align: left;
 
 }
