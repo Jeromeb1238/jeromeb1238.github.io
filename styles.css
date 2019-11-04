@@ -1,0 +1,50 @@
+* { 
+  /* border: 1px solid black; */
+  font-family: 'Roboto', sans-serif;
+  font-size: 1em;
+  width: 1000px
+
+}
+
+body {
+  border-width: 10px;
+}
+
+header {
+  border: 1px solid black;
+  padding: 5px;
+  position: relative;
+  font-size: 150%;
+  height: 300px
+
+}
+h2 {
+    /* border: 1px solid black; */
+  color: green;
+  text-decoration-line: underline;
+  text-align: left;
+  font-size: 175%;
+}
+
+figure {
+  position: absolute;
+  top: 0px;
+  right: 0px;
+  max-width: 35%;
+  /* border: 1px solid black; */
+}
+
+#stream {
+  width: 100%;
+}
+
+figcaption {
+  font-size: 50%;
+  width: 100%;
+}
+h3 {
+  color: green;
+  text-decoration-line: underline;
+  font-size: 145%;
+
+}

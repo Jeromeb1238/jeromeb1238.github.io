@@ -1,10 +1,15 @@
-# aboutme
-Updated JS code, added question function.
+# aboutmelab
+CF 201 About Me lab
 
-Lab 03 revisions:
-  revised the narrative to include 'top 10' likes in numbered list
-  converted work history and education to unnumbered lists
-  Added a 6th question with 4 guesses for a number using while/else if/else, guess count, and responses indicating too high/low.
-  Added a 7th question using a an array with possible answers and 
+Lab 02:
+- created skeletal html
+- css, and js
+- in html include background, education, work experience
+- js added prompt greeting and 5 question 'about me' yes/no answer
 
-This code was worked on by Lucas Wilber via pair programming where Lucas was the driver and Jerome was the navigator.
+Lab 03:
+- Add Top 10 things to html
+- added question 6 guess number
+- added question 7
+- guess multiple choices
+- added a counter for total correct answers
